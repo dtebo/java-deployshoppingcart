@@ -96,7 +96,7 @@
     </dependencies>
 
     <build>
-        <finalName>dtebo-deployshoppingcart</finalName>
+        <finalName>dtebo-javashoppingcart</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
