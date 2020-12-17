@@ -41,8 +41,8 @@ To find out the endpoints available to you in the initial application, you will 
 
 * [x] Configure the application so that you can switch between the H2 database and the PostgreSQL database via a property in the application.properties files.
   * [x] PostgreSQL only has to work once the application is deployed to Heroku
-* [ ] Required Unit Testing.
-  * [ ] Write at least 2 unit tests for the Cart Items service (either with or without database use).
+* [x] Required Unit Testing.
+  * [x] Write at least 2 unit tests for the Cart Items service (either with or without database use).
   * [ ] Write at least 2 unit tests for the Cart Items controller (either with or without database use).
 * [x] Deploy the system to Heroku using PostgreSQL.
   * [x] Make sure that your data remains stable after Heroku automatically restarts your application each night (turn off seed data once the seed data is loaded).
